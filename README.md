@@ -1,4 +1,4 @@
-cp# Francisco C. Oliveira 👨🏽‍💻
+# Francisco C. Oliveira 👨🏽‍💻
 
 **`Desenvolvedor Back-End`**
 
@@ -67,17 +67,3 @@ Me chamo Francisco C Oliveira, tenho 23 anos e sou natural do Ceará. Concluí o
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-
-<h2 data-importer="text" align="left"></h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oliveiraa-dev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiraa-dev&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
