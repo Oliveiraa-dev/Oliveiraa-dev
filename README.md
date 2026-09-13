@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Francisco C Oliveira, tenho 23 anos e sou natural do Ceará. Concluí o ensino médio com o curso técnico em Eletrotécnica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Gosto muito de tecnologia e de criar usando letrinhas coloridas
+Me chamo Francisco C Oliveira, tenho 23 anos e natural do Ceará, morando em SP. Concluí o ensino médio com o curso técnico em Eletrotécnica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Gosto muito de tecnologia e de criar usando letrinhas coloridas
 
 ---
 
