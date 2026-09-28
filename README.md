@@ -224,4 +224,10 @@ Projeto de análise e classificação de transações utilizando técnicas de **
 ```text
 ┌──────────────────────────────────────────────────┐
 │                                                  │
-│     ⚡ APIs REST ...............
+│     ⚡ APIs REST ............... FASTAPI         │
+│     🗄️ Banco de dados .......... SQL             │
+│     🐳 Containers .............. DOCKER          │
+│     🔧 Organização ............. BACK-END        │
+│     🧩 Boas práticas ........... EM EVOLUÇÃO    │
+│                                                  │
+└──────────────────────────────────────────────────┘
