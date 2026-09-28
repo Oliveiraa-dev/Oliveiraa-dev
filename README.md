@@ -1,40 +1,44 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D0221,50:2F80ED,100:8B5CF6&text=FRANCISCO%20C.%20OLIVEIRA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=PYTHON%20%7C%20SQL%20%7C%20FASTAPI%20%7C%20BACK-END&descAlignY=58&descSize=18&animation=twinkling"/>
+<!-- ========================= BANNER ========================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111111,45:F5F3EF,72:FFFFFF,100:B71C1C&text=FRANCISCO%20C.%20OLIVEIRA&fontColor=111111&fontSize=42&fontAlignY=38&desc=PYTHON%20%7C%20SQL%20%7C%20FASTAPI%20%7C%20BACK-END&descAlignY=58&descSize=18&animation=twinkling"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D1A7&center=true&vCenter=true&width=750&lines=⚡+Back-end+em+forma%C3%A7%C3%A3o;🐍+Construindo+com+Python;🗄️+SQL+%7C+APIs+REST+%7C+FastAPI;🔥+Aprendendo+na+pr%C3%A1tica;「+進み続ける+」+%7C+Continue+avan%C3%A7ando" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=B71C1C&center=true&vCenter=true&width=760&lines=Back-end+em+forma%C3%A7%C3%A3o;Construindo+projetos+com+Python;Python+%7C+SQL+%7C+FastAPI;Aprendendo+na+pr%C3%A1tica;%E3%80%8C+%E7%B6%99%E7%B6%9A%E3%81%AF%E5%8A%9B%E3%81%AA%E3%82%8A+%E3%80%8D" />
 
 <br><br>
 
+<!-- ========================= REDES ========================= -->
+
 <a href="https://github.com/Oliveiraa-dev">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/francisco-costa-oliveira/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D1A7"/>
+<img src="https://img.shields.io/badge/LINKEDIN-B71C1C?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+
+<a href="mailto:franciscooliveira.dev1@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-F5F3EF?style=for-the-badge&logo=gmail&logoColor=B71C1C"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Oliveiraa-dev&style=for-the-badge&color=8B5CF6&label=VISITAS+NO+PERFIL"/>
+<img src="https://komarev.com/ghpvc/?username=Oliveiraa-dev&style=for-the-badge&color=B71C1C&label=VISITAS"/>
 
 </div>
 
 ---
 
-<!-- ======================= FRASE ======================= -->
-
 <div align="center">
 
 ### 「 継続は力なり 」
 
-**CONTINUIDADE SE TRANSFORMA EM FORÇA.**
+**A CONSTÂNCIA SE TRANSFORMA EM FORÇA.**
 
-`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 </div>
 
@@ -44,21 +48,23 @@
 
 <div align="center">
 
-> **Estudante de ADS • Back-end em formação • Python**
+### `ESTUDANTE DE ADS • BACK-END EM FORMAÇÃO • PYTHON`
 
 </div>
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na UNIASSELVI**, com conclusão prevista para **julho de 2027**.
 
-Estou em transição para o desenvolvimento **back-end**, estudando e construindo projetos utilizando **Python, SQL, FastAPI e APIs REST**.
+Estou em transição para o desenvolvimento **back-end**, estudando e construindo projetos com **Python, SQL, FastAPI e APIs REST**.
 
-Minha experiência profissional anterior em logística me ensinou a trabalhar com **processos, prazos, conferência e resolução de problemas**. Hoje levo essa atenção para a construção, organização e evolução dos meus projetos.
+Trago comigo **três anos de experiência na área de logística**, onde fui promovido em seis meses. Essa experiência me ensinou a trabalhar com **processos, prazos, conferência rigorosa e resolução de problemas**.
+
+Hoje aplico essa mesma mentalidade no desenvolvimento: entender o problema, seguir o processo, conferir o resultado e buscar resolver a causa em vez de apenas o sintoma.
 
 <div align="center">
 
-### ⚡ FOCO ATUAL
-
-`PYTHON` → `SQL` → `APIs REST` → `FASTAPI` → `BACK-END`
+> **「 一歩ずつ 」**
+>
+> *Um passo de cada vez.*
 
 </div>
 
@@ -68,33 +74,79 @@ Minha experiência profissional anterior em logística me ensinou a trabalhar co
 
 <div align="center">
 
-## 🐍 BACK-END
+## `01` — BACK-END
 
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="70"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://fastapi.tiangolo.com/">
-<img src="https://skillicons.dev/icons?i=fastapi" width="70"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://devdocs.io/c/">
-<img src="https://skillicons.dev/icons?i=c" width="70"/>
-</a>
+<table>
+<tr>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=python" width="65">
+
+### Python
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=fastapi" width="65">
+
+### FastAPI
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=c" width="65">
+
+### C
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111"/>
 
 <br><br>
 
-## 🗄️ DATABASE
+---
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" height="70"/>
-</a>
+## `02` — DATABASE
+
+<table>
+<tr>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="65">
+
+### MySQL
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=sqlite" width="65">
+
+### SQLite
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=postgres" width="65">
+
+### SQL
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -104,11 +156,39 @@ Minha experiência profissional anterior em logística me ensinou a trabalhar co
 
 <br><br>
 
-## 🛠️ TOOLS
+---
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=git,github,docker" height="70"/>
-</a>
+## `03` — DEVELOPMENT TOOLS
+
+<table>
+<tr>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=git" width="65">
+
+### Git
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=github" width="65">
+
+### GitHub
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=docker" width="65">
+
+### Docker
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -120,114 +200,176 @@ Minha experiência profissional anterior em logística me ensinou a trabalhar co
 
 ---
 
-# 🌌 PROJETOS EM DESTAQUE
+# 🏯 PROJETOS EM DESTAQUE
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🍔 FoodAPI</h3>
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-
-<br><br>
-
-API REST para gerenciamento de produtos.
-
-Projeto voltado para prática de desenvolvimento **back-end, APIs e organização de aplicações**.
-
-<br><br>
-
-<a href="https://github.com/Oliveiraa-dev/food-api">
-<img src="https://img.shields.io/badge/⚡_VER_PROJETO-00D1A7?style=for-the-badge&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📋 CRUD de Tarefas</h3>
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-<br><br>
-
-Aplicação de linha de comando para **cadastrar, listar, editar e excluir tarefas**.
-
-Projeto utilizado para praticar lógica, organização e persistência de dados.
-
-<br><br>
-
-<a href="https://github.com/Oliveiraa-dev/CRUD_TAREFAS">
-<img src="https://img.shields.io/badge/⚡_VER_PROJETO-2F80ED?style=for-the-badge&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🧮 Calculadora de IMC</h3>
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-<br><br>
-
-Projeto modular desenvolvido para praticar **funções, validação de dados, tratamento de erros e separação de responsabilidades**.
-
-<br><br>
-
-<a href="https://github.com/Oliveiraa-dev/calculadora-imc">
-<img src="https://img.shields.io/badge/⚡_VER_PROJETO-8B5CF6?style=for-the-badge&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🛡️ Fraud Detection</h3>
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/ML-8B5CF6?style=flat-square"/>
-
-<br><br>
-
-Projeto de análise e classificação de transações utilizando técnicas de **Machine Learning**.
-
-<br><br>
-
-<a href="https://github.com/Oliveiraa-dev/fraud-detection">
-<img src="https://img.shields.io/badge/⚡_VER_PROJETO-FF4FD8?style=for-the-badge&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+### Projetos desenvolvidos para transformar aprendizado em prática.
 
 </div>
 
 ---
 
-# 🧠 CURRENTLY LEARNING
+## 🍔 FoodAPI
+
+**Python · FastAPI**
+
+API REST desenvolvida para praticar conceitos de **desenvolvimento back-end**, criação de endpoints e organização de uma aplicação utilizando FastAPI.
+
+**Principais conceitos:**
+
+- API REST
+- FastAPI
+- Endpoints
+- Modelagem de dados
+- Documentação automática com Swagger
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│     ⚡ APIs REST ............... FASTAPI         │
-│     🗄️ Banco de dados .......... SQL             │
-│     🐳 Containers .............. DOCKER          │
-│     🔧 Organização ............. BACK-END        │
-│     🧩 Boas práticas ........... EM EVOLUÇÃO    │
-│                                                  │
-└──────────────────────────────────────────────────┘
+<a href="https://github.com/Oliveiraa-dev/food-api">
+
+<img src="https://img.shields.io/badge/VER_REPOSITÓRIO-B71C1C?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+## 📋 CRUD de Tarefas
+
+**Python · SQL**
+
+Aplicação de linha de comando para **cadastrar, listar, editar e excluir tarefas**, desenvolvida para praticar lógica, organização de código e persistência de dados.
+
+O projeto também está sendo estruturado pensando na evolução para um **banco de dados relacional**.
+
+<div align="center">
+
+<a href="https://github.com/Oliveiraa-dev/CRUD_TAREFAS">
+
+<img src="https://img.shields.io/badge/VER_REPOSITÓRIO-111111?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+## 🧮 Calculadora de IMC
+
+**Python**
+
+Projeto desenvolvido para praticar **funções, validação de entrada, tratamento de erros e separação de responsabilidades**.
+
+A aplicação possui módulos separados para cálculo, classificação e validação dos dados.
+
+<div align="center">
+
+<a href="https://github.com/Oliveiraa-dev/calculadora-imc">
+
+<img src="https://img.shields.io/badge/VER_REPOSITÓRIO-B71C1C?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+## 🛡️ Fraud Detection
+
+**Python · Machine Learning**
+
+Projeto de análise e classificação de transações utilizando técnicas de **Machine Learning**, explorando tratamento de dados, balanceamento e avaliação de modelos.
+
+<div align="center">
+
+<a href="https://github.com/Oliveiraa-dev/fraud-detection">
+
+<img src="https://img.shields.io/badge/VER_REPOSITÓRIO-111111?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+# 📊 GITHUB
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Oliveiraa-dev&show_icons=true&hide_border=true&bg_color=F5F3EF&title_color=B71C1C&icon_color=111111&text_color=111111&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiraa-dev&layout=compact&hide_border=true&bg_color=F5F3EF&title_color=B71C1C&text_color=111111&langs_count=6"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Oliveiraa-dev&theme=default&hide_border=true&background=F5F3EF&ring=B71C1C&fire=B71C1C&currStreakLabel=111111&sideLabels=111111&dates=555555"/>
+
+</div>
+
+---
+
+# 🎓 FORMAÇÃO
+
+<div align="center">
+
+### ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+
+**UNIASSELVI**
+
+`Conclusão prevista — Julho de 2027`
+
+</div>
+
+---
+
+# 📫 CONECTE-SE COMIGO
+
+<div align="center">
+
+<a href="https://github.com/Oliveiraa-dev">
+
+<img src="https://img.shields.io/badge/GITHUB-Oliveiraa--dev-111111?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/francisco-costa-oliveira/">
+
+<img src="https://img.shields.io/badge/LINKEDIN-Francisco_Costa_Oliveira-B71C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+&nbsp;
+
+<a href="mailto:franciscooliveira.dev1@gmail.com">
+
+<img src="https://img.shields.io/badge/EMAIL-franciscooliveira.dev1%40gmail.com-F5F3EF?style=for-the-badge&logo=gmail&logoColor=B71C1C"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=B71C1C&center=true&vCenter=true&width=650&lines=DISCIPLINA+HOJE.;C%C3%93DIGO+AMANH%C3%83.;EVOLU%C3%87%C3%83O+TODOS+OS+DIAS.;BORA+EVOLUIR+%E2%9A%A1"/>
+
+<br><br>
+
+### 「 技術は積み重ね 」
+
+*Conhecimento é construído passo a passo.*
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:B71C1C,35:111111,70:F5F3EF,100:FFFFFF&animation=twinkling"/>
+
+</div>
