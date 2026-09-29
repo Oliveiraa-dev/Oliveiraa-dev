@@ -145,11 +145,11 @@ Meu objetivo é continuar evoluindo como desenvolvedor, construindo projetos cad
 <table>
 <tr>
 
-<<td align="center" width="160">
+<td align="center" width="160">
 
-<img src="https://skillicons.dev/icons?i=postgres" width="65">
+<img src="https://skillicons.dev/icons?i=sqlite" width="65">
 
-### SQL
+### SQLite
 
 </td>
 
@@ -163,11 +163,6 @@ Meu objetivo é continuar evoluindo como desenvolvedor, construindo projetos cad
 
 </tr>
 </table>
-
-<br>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 <br><br>
 
