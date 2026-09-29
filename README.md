@@ -145,11 +145,11 @@ Meu objetivo é continuar evoluindo como desenvolvedor, construindo projetos cad
 <table>
 <tr>
 
-<td align="center" width="160">
+<<td align="center" width="160">
 
-<img src="https://skillicons.dev/icons?i=sqlite" width="65">
+<img src="https://skillicons.dev/icons?i=postgres" width="65">
 
-### SQLite
+### SQL
 
 </td>
 
@@ -278,7 +278,7 @@ O projeto foi desenvolvido para praticar conceitos de **CRUD, banco de dados, or
 
 <a href="https://github.com/Oliveiraa-dev/CRUD_TAREFAS">
 
-<img src="https://img.shields.io/badge/VER_REPOSITÓRIO-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VER_REPOSITÓRIO-B71C1C?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
